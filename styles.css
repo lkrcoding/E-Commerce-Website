@@ -144,7 +144,7 @@ LANDING
   background-color: rgba(115, 66, 214, 0.1);
 }
 header {
-  height: calc(100vh - 80px);
+  min-height: calc(100vh - 80px);
 }
 
 .header__container {
